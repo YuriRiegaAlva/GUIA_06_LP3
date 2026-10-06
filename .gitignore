@@ -1,0 +1,9 @@
+.toml
+Makefile
+/out
+.trashes
+.Spotlight-V100
+*.app/
+.DS_Store
+.AppleDouble
+.LSOverride
